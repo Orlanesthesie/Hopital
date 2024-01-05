@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    padding: 45px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+ 	background-color: #fe535f; 
+}
+
+h1 {
+    background-color: blueviolet;
+    padding: 45px;
+    display: flex;
+    justify-content: center;
+}
+
+.docteur {
+    display: block;
+    width: 50%;
+    height: 20%;
+    margin: auto;
+}
